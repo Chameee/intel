@@ -52,5 +52,5 @@ please type the columns of the input 2D Tensor:
 -  二维均匀分布随机数
 
 2. 测试卷积核
-是一个均值化的核，可以自己在main函数里该
+是一个均值化的核，可以自己在main函数里改
 
